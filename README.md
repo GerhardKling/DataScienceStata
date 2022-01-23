@@ -5,6 +5,7 @@ INTRO:
 https://youtu.be/rJfsuEoTPP8
 
 Lecture 1: Introduction to statistical models and Stata
+https://youtu.be/zB5y16bfz64
 
 Lecture 2: Exploring data
 
