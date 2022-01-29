@@ -5,10 +5,10 @@ Material for the YouTube course "Data Science using Stata: Complete Beginners Co
 [YouTube Video 1](https://youtu.be/rJfsuEoTPP8)
 
 ## Lecture 1: Introduction to statistical models and Stata
-[YouTube Video 1](https://youtu.be/zB5y16bfz64)
+[YouTube Video 2](https://youtu.be/zB5y16bfz64)
 
 ## Lecture 2: Exploring data 
-[YouTube Video 1](https://youtu.be/CgBLnSP6wSw)
+[YouTube Video 3](https://youtu.be/CgBLnSP6wSw)
 
 ### 2a: Transforming variables
 ### 2b: Exporting tables
