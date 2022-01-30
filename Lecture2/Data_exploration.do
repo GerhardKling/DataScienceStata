@@ -49,3 +49,16 @@ replace w_income = p95 if income >= p95
 *Twoway charts
 twoway (kdensity income) (kdensity w_income)
 twoway (histogram income) (histogram w_income)
+
+*Transformations
+gen ln_income = ln(income)
+
+kdensity ln_income, normal
+
+*Tables
+tabstat income size, s(N mean sd)
+
+estpost tabstat income size, s(N mean sd) columns(statistics)
+
+esttab . using "my_table.rtf", cells("count mean(fmt(%9.2f)) sd(fmt(%9.2f))") ///
+noobs title(Summary statistics) compress replace nogap
