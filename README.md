@@ -14,11 +14,15 @@ I cover data types, sampling issues, outliers, and missing values.
 
 ### 2a: Transforming variables 
 I discuss whether you should transform variables (e.g., log transformation), how transformation affects linear relationships, and whether variables should be normally distributed for regression analysis. I show you how to AVOID COMMON MISTAKES when transforming variables.
-[YouTube Video 4 - 31/01/2022 at 10am GMT](https://youtu.be/TRlppNXqfMo)
+[YouTube Video 4](https://youtu.be/TRlppNXqfMo)
 
 ### 2b: Exporting tables
 I introduce the estpost and esttab commands, which enable you to export tables from Stata to Word, Excel, or other applications. I show you how to modify formats and optimise the layout. This produces production-ready tables for your dissertation project, consulting report or academic paper. NO NEED TO ADJUST TABLES BY HAND - LET STATA TAKE CARE OF IT!
-[YouTube Video 5 - 01/02/2022 at 10am GMT](https://youtu.be/3gR83QE6704)
+[YouTube Video 5](https://youtu.be/3gR83QE6704)
+
+## Workshop 1: Descriptive Analysis: Worked Example
+Now it is your turn! Download the data and try to answer the questions for Workshop 1 (see slides). This video will walk you through a Descriptive Data Analysis step-by-step. We generate new variables, display descriptive statistics, and explore large survey data. 
+[YouTube Video 5 - 04/02/2022 at 12noon GMT](https://youtu.be/16qaab1S0WY)
 
 ## Lecture 3: Regression analysis
 
