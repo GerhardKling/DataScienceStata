@@ -22,9 +22,23 @@ I introduce the estpost and esttab commands, which enable you to export tables f
 
 ## Workshop 1: Descriptive Analysis: Worked Example
 Now it is your turn! Download the data and try to answer the questions for Workshop 1 (see slides). This video will walk you through a Descriptive Data Analysis step-by-step. We generate new variables, display descriptive statistics, and explore large survey data. 
-[YouTube Video 5 - 04/02/2022 at 12noon GMT](https://youtu.be/16qaab1S0WY)
+[YouTube Video 6](https://youtu.be/16qaab1S0WY)
 
 ## Lecture 3: Regression analysis
+This video explains Regression Analysis without using theory. We will conduct a regression analysis in Stata and interpret the output. In particular, we explore correlations, scatter plots, linear models, OLS, dummies, and predictions.
+[YouTube Video 7 - 10/02/2022 at 9am GMT](https://youtu.be/38GXnMGp_-I)
+
+Chapters
+0:00 Welcome & Overview
+1:19 Correlations & Scatter Plots
+6:23 Distributions & Transformations
+7:04 Linear Model
+9:48 Ordinary Least Squares (OLS)
+16:59 Application using Stata
+38:12 Regression Output & Interpretation
+46:53 Dummy Variables
+52:52 Fitted Values
+55:55 Model Assumptions
 
 ## Lecture 4: Post estimation analysis
 
