@@ -29,16 +29,16 @@ This video explains Regression Analysis without using theory. We will conduct a 
 [YouTube Video 7 - 10/02/2022 at 9am GMT](https://youtu.be/38GXnMGp_-I)
 
 **Chapters**
-*0:00 Welcome & Overview
-*1:19 Correlations & Scatter Plots
-*6:23 Distributions & Transformations
-*7:04 Linear Model
-*9:48 Ordinary Least Squares (OLS)
-*16:59 Application using Stata
-*38:12 Regression Output & Interpretation
-*46:53 Dummy Variables
-*52:52 Fitted Values
-*55:55 Model Assumptions
+- 0:00 Welcome & Overview
+- 1:19 Correlations & Scatter Plots
+- 6:23 Distributions & Transformations
+- 7:04 Linear Model
+- 9:48 Ordinary Least Squares (OLS)
+- 16:59 Application using Stata
+- 38:12 Regression Output & Interpretation
+- 46:53 Dummy Variables
+- 52:52 Fitted Values
+- 55:55 Model Assumptions
 
 ## Lecture 4: Post estimation analysis
 
