@@ -40,7 +40,23 @@ This video explains Regression Analysis without using theory. We will conduct a 
 - 52:52 Fitted Values
 - 55:55 Model Assumptions
 
+### 3a: What are Degrees of Freedom?
+This video explains the concept of degrees of freedom.  Using artificial data, we illustrate the minimum number of observations needed to determine a regression line in two dimensions (or higher dimensions). We show the impact on R-squared and demonstrate the adjusted R-squared. Using examples, we highlight the impact of additional observations and explanatory variables on degrees of freedom and R-squared.
+[YouTube Video 8](https://youtu.be/W88W1GT4Gy8)
+
 ## Lecture 4: Post estimation analysis
+
+### 4a: What is Multicollinearity?
+This video explains multicollinearity and its consequences for regression analysis. We discuss how to detect multicollinearity and how to address the problem. Finally, we demonstrate multicollinearity using data on commodity prices. 
+[YouTube Video 9 - 16/02/2022 at 10am GMT](https://youtu.be/oRD6Dk7O3vE)
+
+**Chapters**
+- 0:00 Multicollinearity
+- 0:24 What is the problem?
+- 2:43 How to fix it?
+- 4:50 How to detect multicollinearity?
+- 7:30 Example in Stata
+
 
 ## Lecture 5: Analysing panel data
 
