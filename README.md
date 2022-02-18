@@ -48,7 +48,7 @@ This video explains the concept of degrees of freedom.  Using artificial data, w
 
 ### 4a: What is Multicollinearity?
 This video explains multicollinearity and its consequences for regression analysis. We discuss how to detect multicollinearity and how to address the problem. Finally, we demonstrate multicollinearity using data on commodity prices. 
-[YouTube Video 9 - 16/02/2022 at 10am GMT](https://youtu.be/oRD6Dk7O3vE)
+[YouTube Video 9](https://youtu.be/oRD6Dk7O3vE)
 
 **Chapters**
 - 0:00 Multicollinearity
@@ -57,6 +57,16 @@ This video explains multicollinearity and its consequences for regression analys
 - 4:50 How to detect multicollinearity?
 - 7:30 Example in Stata
 
+### L4b What is Heteroskedasticity?
+This video explains heteroskedasticity and its consequences for regression analysis. We discuss how to detect heteroskedasticity and how to address the problem. Finally, we demonstrate heteroskedasticity using data on yields in farming. 
+[YouTube Video 10 - Monday 21/02/2022 at 10am GMT](https://youtu.be/cF01A1w2zTQ)
+
+**Chapters**
+- 0:00 Welcome
+- 0:44 Impact on p-values
+- 2:07 Detecting the problem
+- 4:56 How to fix it?
+- 5:42 Worked example in Stata
 
 ## Lecture 5: Analysing panel data
 
