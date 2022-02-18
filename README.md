@@ -57,7 +57,7 @@ This video explains multicollinearity and its consequences for regression analys
 - 4:50 How to detect multicollinearity?
 - 7:30 Example in Stata
 
-### L4b What is Heteroskedasticity?
+### 4b: What is Heteroskedasticity?
 This video explains heteroskedasticity and its consequences for regression analysis. We discuss how to detect heteroskedasticity and how to address the problem. Finally, we demonstrate heteroskedasticity using data on yields in farming. 
 [YouTube Video 10 - Monday 21/02/2022 at 10am GMT](https://youtu.be/cF01A1w2zTQ)
 
