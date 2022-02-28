@@ -59,7 +59,7 @@ This video explains multicollinearity and its consequences for regression analys
 
 ### 4b: What is Heteroskedasticity?
 This video explains heteroskedasticity and its consequences for regression analysis. We discuss how to detect heteroskedasticity and how to address the problem. Finally, we demonstrate heteroskedasticity using data on yields in farming. 
-[YouTube Video 10 - Monday 21/02/2022 at 10am GMT](https://youtu.be/cF01A1w2zTQ)
+[YouTube Video 10](https://youtu.be/cF01A1w2zTQ)
 
 **Chapters**
 - 0:00 Welcome
@@ -67,6 +67,20 @@ This video explains heteroskedasticity and its consequences for regression analy
 - 2:07 Detecting the problem
 - 4:56 How to fix it?
 - 5:42 Worked example in Stata
+
+### 4c: How to fix an Omitted Variable Bias?
+This video explains how to detect and fix an omitted variable bias. If you forget to include an important explanatory variable in your regression model, an omitted variable bias can occur. I explain how you can detect this problem using the Ramsey RESET test. This test also indicates non-linear relationships. We will explore how we can distinguish between non-linear effects and omitted variables using fitted values. 
+[YouTube Video 11](https://youtu.be/iHEpPusChpE)
+
+**Chapters**
+- 0:00 Omitted Variable Bias
+- 1:34 Worked Example in Stata
+- 3:55 Log Transformation
+- 5:08 Regression Model
+- 6:50 Ramsey RESET Test
+- 9:10 Higher Orders
+- 15:36 Collapse Command
+- 17:01 Visualisation
 
 ## Lecture 5: Analysing panel data
 
