@@ -94,7 +94,7 @@ This video explains how to detect endogeneity. Endogeneity is a common problem i
 - 11:33 How to fix Endogeneity?
 
 ## Lecture 5: Analysing panel data
-### 5a:Introduction to Panel Data
+### 5a: Introduction to Panel Data
 This video explains how to work with panel data. We discuss the benefits of using panel data, including Granger causality and the assessment of policy changes. We introduced fixed and random effects models, which we implement in Stata. The regression otuputs are explained and compared.  
 [YouTube Video 13 - 14/03/2022 at 10am GMT](https://youtu.be/BsCCUYTfiHQ)
 
