@@ -82,7 +82,36 @@ This video explains how to detect and fix an omitted variable bias. If you forge
 - 15:36 Collapse Command
 - 17:01 Visualisation
 
+### 4d: Detecting Endogeneity
+This video explains how to detect endogeneity. Endogeneity is a common problem in regression analysis. I explain how you can detect this problem using an auxiliary regression approach. We discuss strategies to address endogeneity. 
+[YouTube Video 12](https://youtu.be/RBHDPEimW_Y)
+
+**Chapters**
+- 0:00 Welcome
+- 0:15 What is Endogeneity?
+- 1:42 Detecting Endogeneity
+- 3:08 Worked Example in Stata
+- 11:33 How to fix Endogeneity?
+
 ## Lecture 5: Analysing panel data
+### 5a:Introduction to Panel Data
+This video explains how to work with panel data. We discuss the benefits of using panel data, including Granger causality and the assessment of policy changes. We introduced fixed and random effects models, which we implement in Stata. The regression otuputs are explained and compared.  
+[YouTube Video 13 - 14/03/2022 at 10am GMT](https://youtu.be/BsCCUYTfiHQ)
+
+**Chapters**
+- 0:00 Introduction to Panel Data
+- 0:26 Benefits of Panel Data
+- 1:23 Analysing Policy Changes
+- 1:58 Causality
+- 3:01 Time Lags
+- 3:19 Panel Data Models
+- 3:59 SOLS or POLS
+- 4:20 Fixed & Random Effects
+- 7:11 Worked Example in Stata
+- 8:40 Panel Regressions in Stata
+- 9:36 The tsset Command
+- 11:07 Interpretation of Output
+- 13:46 Model Comparison
 
 ## Lecture 6: Binary choice models
 
