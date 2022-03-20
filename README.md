@@ -3,31 +3,31 @@ Material for the YouTube course "Data Science using Stata: Complete Beginners Co
 #### [YUNIKARN](https://www.youtube.com/channel/UCb0qAKEAwNC0FNatapc-yZg) 
 
 ## INTRO:
-[YouTube Video 1](https://youtu.be/rJfsuEoTPP8)
+#### [YouTube Video 1](https://youtu.be/rJfsuEoTPP8)
 
 ## Lecture 1: Introduction to statistical models and Stata
 We explore statistical models and start playing with Stata. I show you how to load data into Stata from Excel or csv files.
-[YouTube Video 2](https://youtu.be/zB5y16bfz64)
+#### [YouTube Video 2](https://youtu.be/zB5y16bfz64)
 
 ## Lecture 2: Exploring data 
 I cover data types, sampling issues, outliers, and missing values.
-[YouTube Video 3](https://youtu.be/CgBLnSP6wSw)
+#### [YouTube Video 3](https://youtu.be/CgBLnSP6wSw)
 
 ### 2a: Transforming variables 
 I discuss whether you should transform variables (e.g., log transformation), how transformation affects linear relationships, and whether variables should be normally distributed for regression analysis. I show you how to AVOID COMMON MISTAKES when transforming variables.
-[YouTube Video 4](https://youtu.be/TRlppNXqfMo)
+#### [YouTube Video 4](https://youtu.be/TRlppNXqfMo)
 
 ### 2b: Exporting tables
 I introduce the estpost and esttab commands, which enable you to export tables from Stata to Word, Excel, or other applications. I show you how to modify formats and optimise the layout. This produces production-ready tables for your dissertation project, consulting report or academic paper. NO NEED TO ADJUST TABLES BY HAND - LET STATA TAKE CARE OF IT!
-[YouTube Video 5](https://youtu.be/3gR83QE6704)
+#### [YouTube Video 5](https://youtu.be/3gR83QE6704)
 
 ## Workshop 1: Descriptive Analysis: Worked Example
 Now it is your turn! Download the data and try to answer the questions for Workshop 1 (see slides). This video will walk you through a Descriptive Data Analysis step-by-step. We generate new variables, display descriptive statistics, and explore large survey data. 
-[YouTube Video 6](https://youtu.be/16qaab1S0WY)
+#### [YouTube Video 6](https://youtu.be/16qaab1S0WY)
 
 ## Lecture 3: Regression analysis
 This video explains Regression Analysis without using theory. We will conduct a regression analysis in Stata and interpret the output. In particular, we explore correlations, scatter plots, linear models, OLS, dummies, and predictions.
-[YouTube Video 7](https://youtu.be/38GXnMGp_-I)
+#### [YouTube Video 7](https://youtu.be/38GXnMGp_-I)
 
 **Chapters**
 - 0:00 Welcome & Overview
@@ -43,13 +43,13 @@ This video explains Regression Analysis without using theory. We will conduct a 
 
 ### 3a: What are Degrees of Freedom?
 This video explains the concept of degrees of freedom.  Using artificial data, we illustrate the minimum number of observations needed to determine a regression line in two dimensions (or higher dimensions). We show the impact on R-squared and demonstrate the adjusted R-squared. Using examples, we highlight the impact of additional observations and explanatory variables on degrees of freedom and R-squared.
-[YouTube Video 8](https://youtu.be/W88W1GT4Gy8)
+#### [YouTube Video 8](https://youtu.be/W88W1GT4Gy8)
 
 ## Lecture 4: Post estimation analysis
 
 ### 4a: What is Multicollinearity?
 This video explains multicollinearity and its consequences for regression analysis. We discuss how to detect multicollinearity and how to address the problem. Finally, we demonstrate multicollinearity using data on commodity prices. 
-[YouTube Video 9](https://youtu.be/oRD6Dk7O3vE)
+#### [YouTube Video 9](https://youtu.be/oRD6Dk7O3vE)
 
 **Chapters**
 - 0:00 Multicollinearity
@@ -60,7 +60,7 @@ This video explains multicollinearity and its consequences for regression analys
 
 ### 4b: What is Heteroskedasticity?
 This video explains heteroskedasticity and its consequences for regression analysis. We discuss how to detect heteroskedasticity and how to address the problem. Finally, we demonstrate heteroskedasticity using data on yields in farming. 
-[YouTube Video 10](https://youtu.be/cF01A1w2zTQ)
+#### [YouTube Video 10](https://youtu.be/cF01A1w2zTQ)
 
 **Chapters**
 - 0:00 Welcome
@@ -71,7 +71,7 @@ This video explains heteroskedasticity and its consequences for regression analy
 
 ### 4c: How to fix an Omitted Variable Bias?
 This video explains how to detect and fix an omitted variable bias. If you forget to include an important explanatory variable in your regression model, an omitted variable bias can occur. I explain how you can detect this problem using the Ramsey RESET test. This test also indicates non-linear relationships. We will explore how we can distinguish between non-linear effects and omitted variables using fitted values. 
-[YouTube Video 11](https://youtu.be/iHEpPusChpE)
+#### [YouTube Video 11](https://youtu.be/iHEpPusChpE)
 
 **Chapters**
 - 0:00 Omitted Variable Bias
@@ -85,7 +85,7 @@ This video explains how to detect and fix an omitted variable bias. If you forge
 
 ### 4d: Detecting Endogeneity
 This video explains how to detect endogeneity. Endogeneity is a common problem in regression analysis. I explain how you can detect this problem using an auxiliary regression approach. We discuss strategies to address endogeneity. 
-[YouTube Video 12](https://youtu.be/RBHDPEimW_Y)
+#### [YouTube Video 12](https://youtu.be/RBHDPEimW_Y)
 
 **Chapters**
 - 0:00 Welcome
@@ -97,7 +97,7 @@ This video explains how to detect endogeneity. Endogeneity is a common problem i
 ## Lecture 5: Analysing panel data
 ### 5a: Introduction to Panel Data
 This video explains how to work with panel data. We discuss the benefits of using panel data, including Granger causality and the assessment of policy changes. We introduced fixed and random effects models, which we implement in Stata. The regression otuputs are explained and compared.  
-[YouTube Video 13](https://youtu.be/BsCCUYTfiHQ)
+#### [YouTube Video 13](https://youtu.be/BsCCUYTfiHQ)
 
 **Chapters**
 - 0:00 Introduction to Panel Data
@@ -116,7 +116,7 @@ This video explains how to work with panel data. We discuss the benefits of usin
 
 ### 5b: Fixed or Random Effects? Does the Hausman Test fail?
 This video discusses whether you should use fixed or random effects for your panel data analysis. We explain how the Hausman test works and - most importantly - when the Hausman test fails! We cover biased estimators, the efficiency of estimators, and the implementation in Stata. Again, I focus on an intuitive understanding of the methods - no theory - just data fun!
-[YouTube Video 14 - 21/03/2022 at 10am GMT](https://youtu.be/ywgrQCO5rHE)
+#### [YouTube Video 14 - 21/03/2022 at 10am GMT](https://youtu.be/ywgrQCO5rHE)
 
 **Chapters**
 - 0:00 Fixed or Random Effects
