@@ -96,7 +96,7 @@ This video explains how to detect endogeneity. Endogeneity is a common problem i
 ## Lecture 5: Analysing panel data
 ### 5a: Introduction to Panel Data
 This video explains how to work with panel data. We discuss the benefits of using panel data, including Granger causality and the assessment of policy changes. We introduced fixed and random effects models, which we implement in Stata. The regression otuputs are explained and compared.  
-[YouTube Video 13 - 14/03/2022 at 10am GMT](https://youtu.be/BsCCUYTfiHQ)
+[YouTube Video 13](https://youtu.be/BsCCUYTfiHQ)
 
 **Chapters**
 - 0:00 Introduction to Panel Data
@@ -112,6 +112,20 @@ This video explains how to work with panel data. We discuss the benefits of usin
 - 9:36 The tsset Command
 - 11:07 Interpretation of Output
 - 13:46 Model Comparison
+
+### 5b: Fixed or Random Effects? Does the Hausman Test fail?
+This video discusses whether you should use fixed or random effects for your panel data analysis. We explain how the Hausman test works and - most importantly - when the Hausman test fails! We cover biased estimators, the efficiency of estimators, and the implementation in Stata. Again, I focus on an intuitive understanding of the methods - no theory - just data fun!
+[YouTube Video 14 - 21/03/2022 at 10am GMT](https://youtu.be/ywgrQCO5rHE)
+
+**Chapters**
+- 0:00 Fixed or Random Effects
+- 0:26 Worked Example
+- 0:53 How does the Hausman Test work?
+- 1:12 Bias
+- 1:45 Efficiency
+- 3:21 Implementation in Stata
+- 4:42 Interpretation of Output
+- 6:23 Warning: Hausman Test fails!
 
 ## Lecture 6: Binary choice models
 
