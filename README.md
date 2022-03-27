@@ -133,14 +133,14 @@ This video explains the impact of serial correlation in panel data analysis. We 
 #### [YouTube Video 15 - 28/03/2022 at 10am GMT](https://youtu.be/Tqp-s8UK1g0)
 
 **Chapters**
-0:00 Serial Correlation in Panel Data
-0:40 Reasons for Serial Correlation
-1:19 Testing for Serial Correlation
-2:46 Newey-West Estimator
-3:47 Dynamic Panel Data Estimation
-4:12 Worked Example in Stata
-5:26 Interpretation of Output
-6:13 Solutions in Stata
+- 0:00 Serial Correlation in Panel Data
+- 0:40 Reasons for Serial Correlation
+- 1:19 Testing for Serial Correlation
+- 2:46 Newey-West Estimator
+- 3:47 Dynamic Panel Data Estimation
+- 4:12 Worked Example in Stata
+- 5:26 Interpretation of Output
+- 6:13 Solutions in Stata
 
 
 ## Lecture 6: Binary choice models
