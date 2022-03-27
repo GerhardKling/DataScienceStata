@@ -116,7 +116,7 @@ This video explains how to work with panel data. We discuss the benefits of usin
 
 ### 5b: Fixed or Random Effects? Does the Hausman Test fail?
 This video discusses whether you should use fixed or random effects for your panel data analysis. We explain how the Hausman test works and - most importantly - when the Hausman test fails! We cover biased estimators, the efficiency of estimators, and the implementation in Stata. Again, I focus on an intuitive understanding of the methods - no theory - just data fun!
-#### [YouTube Video 14 - 21/03/2022 at 10am GMT](https://youtu.be/ywgrQCO5rHE)
+#### [YouTube Video 14](https://youtu.be/ywgrQCO5rHE)
 
 **Chapters**
 - 0:00 Fixed or Random Effects
@@ -127,6 +127,21 @@ This video discusses whether you should use fixed or random effects for your pan
 - 3:21 Implementation in Stata
 - 4:42 Interpretation of Output
 - 6:23 Warning: Hausman Test fails!
+
+### 5c: Serial Correlation in Panel Data
+This video explains the impact of serial correlation in panel data analysis. We discuss the underlying reasons for serial correlation. Then we introduce a test based on Wooldridge (2002). To fix serial correlation, we explore the Newey-West Estimator (robust estimation) and Dynamic Panel Data Estimation. Finally, we have some fun in Stata. 
+#### [YouTube Video 15 - 28/03/2022 at 10am GMT](https://youtu.be/Tqp-s8UK1g0)
+
+**Chapters**
+0:00 Serial Correlation in Panel Data
+0:40 Reasons for Serial Correlation
+1:19 Testing for Serial Correlation
+2:46 Newey-West Estimator
+3:47 Dynamic Panel Data Estimation
+4:12 Worked Example in Stata
+5:26 Interpretation of Output
+6:13 Solutions in Stata
+
 
 ## Lecture 6: Binary choice models
 
