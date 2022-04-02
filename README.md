@@ -130,7 +130,7 @@ This video discusses whether you should use fixed or random effects for your pan
 
 ### 5c: Serial Correlation in Panel Data
 This video explains the impact of serial correlation in panel data analysis. We discuss the underlying reasons for serial correlation. Then we introduce a test based on Wooldridge (2002). To fix serial correlation, we explore the Newey-West Estimator (robust estimation) and Dynamic Panel Data Estimation. Finally, we have some fun in Stata. 
-#### [YouTube Video 15 - 28/03/2022 at 10am GMT](https://youtu.be/Tqp-s8UK1g0)
+#### [YouTube Video 15](https://youtu.be/Tqp-s8UK1g0)
 
 **Chapters**
 - 0:00 Serial Correlation in Panel Data
@@ -141,6 +141,18 @@ This video explains the impact of serial correlation in panel data analysis. We 
 - 4:12 Worked Example in Stata
 - 5:26 Interpretation of Output
 - 6:13 Solutions in Stata
+
+### 5d: Interaction Effects in Panel Data
+This video explains interaction effects in panel data. It is common that certain groups of observations (e.g., companies, countries) exhibit differences in behaviour. These differences can be modelled using interaction effects. We explore shifts in the intercept and slope coefficient. In addition, I demonstrate how these models can be implemented in Stata.
+#### [YouTube Video 16 - 04/04/2022 at 10am GMT](https://youtu.be/PaWgU3Zqceg)
+
+**Chapters**
+- 0:00 Interaction Effects
+- 1:13 Shift in Intercept
+- 2:21 Illustration of Shift
+- 2:40 Interaction Term
+- 4:08 Illustration of Interaction Effect
+- 4:31 Implementation in Stata
 
 
 ## Lecture 6: Binary choice models
