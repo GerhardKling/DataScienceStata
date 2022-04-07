@@ -144,7 +144,7 @@ This video explains the impact of serial correlation in panel data analysis. We 
 
 ### 5d: Interaction Effects in Panel Data
 This video explains interaction effects in panel data. It is common that certain groups of observations (e.g., companies, countries) exhibit differences in behaviour. These differences can be modelled using interaction effects. We explore shifts in the intercept and slope coefficient. In addition, I demonstrate how these models can be implemented in Stata.
-#### [YouTube Video 16 - 04/04/2022 at 10am GMT](https://youtu.be/PaWgU3Zqceg)
+#### [YouTube Video 16](https://youtu.be/PaWgU3Zqceg)
 
 **Chapters**
 - 0:00 Interaction Effects
@@ -153,6 +153,10 @@ This video explains interaction effects in panel data. It is common that certain
 - 2:40 Interaction Term
 - 4:08 Illustration of Interaction Effect
 - 4:31 Implementation in Stata
+
+### 5e: How does the Test for Serial Correlation work?
+This video comes with a TRIGGER WARNING! It contains mathematics, which some viewers might find distressing. I explain how the serial correlation test developed by Wooldridge (2002) can be derived. We cover the null hypothesis and related assumptions, iid distributed error terms, covariance and variance formulas. We also highlight linear operators and their properties. There is a little surprise at the end of the video!
+#### [YouTube Video 17 - 11/04/2022 at 10am GMT](https://youtu.be/_TiVIly-QIg)
 
 
 ## Lecture 6: Binary choice models
