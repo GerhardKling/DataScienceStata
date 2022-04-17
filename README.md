@@ -156,10 +156,22 @@ This video explains interaction effects in panel data. It is common that certain
 
 ### 5e: How does the Test for Serial Correlation work?
 This video comes with a TRIGGER WARNING! It contains mathematics, which some viewers might find distressing. I explain how the serial correlation test developed by Wooldridge (2002) can be derived. We cover the null hypothesis and related assumptions, iid distributed error terms, covariance and variance formulas. We also highlight linear operators and their properties. There is a little surprise at the end of the video!
-#### [YouTube Video 17 - 11/04/2022 at 10am GMT](https://youtu.be/_TiVIly-QIg)
+#### [YouTube Video 17](https://youtu.be/_TiVIly-QIg)
 
 
 ## Lecture 6: Binary choice models
+### 6a: Logistic Regression: An Introduction using Stata 
+This video introduces logistic regressions. We discuss binary choice models, where the dependent variable is either a positive or negative outcome (e.g., a decision). The problem is illustrated graphically - how to map a linear model to an interval suitable for modelling a probability. Most decision processes remain unobserved; hence, we briefly discuss latent variables. Finally, I demonstrate how these models can be implemented in Stata. Predicted probabilities are plotted to visualise the model, and we explore classifications. 
+#### [YouTube Video 18 - 18/04/2022 at 10am GMT](https://youtu.be/RH7FAM4gCf0)
+
+**Chapters**
+- 0:00 Binary Choice
+- 1:34 Illustration of Problem
+- 5:38 Latent Variable
+- 9:48 Implementation in Stata
+- 14:43 Plot Predicted Probabilities
+- 17:51 Classification
+
 
 ## Lecture 7: Model specification
 
