@@ -162,7 +162,7 @@ This video comes with a TRIGGER WARNING! It contains mathematics, which some vie
 ## Lecture 6: Binary choice models
 ### 6a: Logistic Regression: An Introduction using Stata 
 This video introduces logistic regressions. We discuss binary choice models, where the dependent variable is either a positive or negative outcome (e.g., a decision). The problem is illustrated graphically - how to map a linear model to an interval suitable for modelling a probability. Most decision processes remain unobserved; hence, we briefly discuss latent variables. Finally, I demonstrate how these models can be implemented in Stata. Predicted probabilities are plotted to visualise the model, and we explore classifications. 
-#### [YouTube Video 18 - 18/04/2022 at 10am GMT](https://youtu.be/RH7FAM4gCf0)
+#### [YouTube Video 18](https://youtu.be/RH7FAM4gCf0)
 
 **Chapters**
 - 0:00 Binary Choice
@@ -172,6 +172,21 @@ This video introduces logistic regressions. We discuss binary choice models, whe
 - 14:43 Plot Predicted Probabilities
 - 17:51 Classification
 
+### 6b: How to Predict Mergers using Logistic Regressions?
+This video explores a dataset of mergers (companies buying other companies). It is often interesting to predict whether a merger occurs as share prices tend to move. First, we explore the data, select variables, and visualise the trend of mergers in the US. You will learn new Stata commands to summarize data using collapse. Second, we run several logit models and derive predicted probabilities. Finally, we compare predictions based on firm-level data and macro data (merger wave). If you want to know more about mergers, have a look at our paper on "Endogenous mergers: bidder momentum and market reaction." 
+#### [Link to Paper](https://www.tandfonline.com/doi/abs/10.1080/09603100903282663)
+#### [YouTube Video 19 - 25/04/2022 at 10am GMT](https://youtu.be/2LaGelJ4ggM)
+
+**Chapters**
+- 0:00 Predicting Mergers
+- 1:14 Exploring Data
+- 2:44 Sum Command
+- 4:12 Density Plot
+- 4:30 Tabstat Command
+- 5:46 Collapse Command
+- 9:01 Sorting and By Command
+- 11:07 Logit Models
+- 17:05 Compare Predictions
 
 ## Lecture 7: Model specification
 
