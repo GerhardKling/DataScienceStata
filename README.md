@@ -175,7 +175,7 @@ This video introduces logistic regressions. We discuss binary choice models, whe
 ### 6b: How to Predict Mergers using Logistic Regressions?
 This video explores a dataset of mergers (companies buying other companies). It is often interesting to predict whether a merger occurs as share prices tend to move. First, we explore the data, select variables, and visualise the trend of mergers in the US. You will learn new Stata commands to summarize data using collapse. Second, we run several logit models and derive predicted probabilities. Finally, we compare predictions based on firm-level data and macro data (merger wave). If you want to know more about mergers, have a look at our paper on "Endogenous mergers: bidder momentum and market reaction." 
 #### [Link to Paper](https://www.tandfonline.com/doi/abs/10.1080/09603100903282663)
-#### [YouTube Video 19 - 25/04/2022 at 10am GMT](https://youtu.be/2LaGelJ4ggM)
+#### [YouTube Video 19](https://youtu.be/2LaGelJ4ggM)
 
 **Chapters**
 - 0:00 Predicting Mergers
@@ -189,5 +189,19 @@ This video explores a dataset of mergers (companies buying other companies). It 
 - 17:05 Compare Predictions
 
 ## Lecture 7: Model specification
+### 7a: How to find the 'Best Model' for your Data?
+This video explains the process of model specification, which is often overlooked in textbooks and many online courses. However, it is essential to understand how you actually derive the 'best model' for your data. We start by exploring different aims of studies, including forecasting and identification. The main approaches: General-to-Specific and Specific-to-General are introduced. We discuss the pros and cons of each approach. We explain the use of information criteria (AIC, BIC). Finally, we apply our knowledge to predicting stock market returns using a set of macroeconomic shock variables.
+#### [YouTube Video 20 - 02/05/2022 at 10am GMT](https://youtu.be/9Cy4XSN8OPw)
+
+**Chapters**
+- 0:00 Model Specification
+- 0:31 Aims of Video
+- 1:59 What is the 'Best Model'?
+- 3:36 How to start?
+- 5:03 Specification Methods
+- 7:47 Information Criteria
+- 9:10 Predicting Stock Market Returns
+- 11:23 General-to-Specific Approach
+
 
 ## Lecture 8: Measuring the immeasurable: CFA and SEM!
