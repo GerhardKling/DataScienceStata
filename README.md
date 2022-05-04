@@ -191,7 +191,7 @@ This video explores a dataset of mergers (companies buying other companies). It 
 ## Lecture 7: Model specification
 ### 7a: How to find the 'Best Model' for your Data?
 This video explains the process of model specification, which is often overlooked in textbooks and many online courses. However, it is essential to understand how you actually derive the 'best model' for your data. We start by exploring different aims of studies, including forecasting and identification. The main approaches: General-to-Specific and Specific-to-General are introduced. We discuss the pros and cons of each approach. We explain the use of information criteria (AIC, BIC). Finally, we apply our knowledge to predicting stock market returns using a set of macroeconomic shock variables.
-#### [YouTube Video 20 - 02/05/2022 at 10am GMT](https://youtu.be/9Cy4XSN8OPw)
+#### [YouTube Video 20](https://youtu.be/9Cy4XSN8OPw)
 
 **Chapters**
 - 0:00 Model Specification
@@ -202,6 +202,21 @@ This video explains the process of model specification, which is often overlooke
 - 7:47 Information Criteria
 - 9:10 Predicting Stock Market Returns
 - 11:23 General-to-Specific Approach
+
+### 7b: Parameter Stability & Time-varying Coefficients
+This video goes deeper into Stata programming. We illustrate time-varying coefficients in regressions. This is an issue in time series analysis aimed at forecasting. How can you forecast if your model exhibits parameter instability? We illustrate the problem and our approach using overlapping periods. The implementation in Stata highlights the differences between the matrix and variable environment. We move between the two using the svmat command. Time-varying coefficients are plotted, and a structural break is highlighted. 
+#### [YouTube Video 21 - 09/05/2022 at 10am GMT](https://youtu.be/o1d7Ho6HcUI)
+
+**Chapters**
+- 0:00 Parameter Stability
+- 0:32 Illustration of Problem
+- 2:52 Worked Example in Stata
+- 4:06 Obtain Coefficients
+- 5:03 Variable or Matrix in Stata
+- 7:38 The svmat Command
+- 9:52 The egen max() Trick
+- 10:55 Fovalues Loop
+- 14:55 Plotting Rolling Regression
 
 
 ## Lecture 8: Measuring the immeasurable: CFA and SEM!
