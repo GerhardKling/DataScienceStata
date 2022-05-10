@@ -221,7 +221,7 @@ This video goes deeper into Stata programming. We illustrate time-varying coeffi
 
 ## Live 1: Exploring Data & Regression Analysis
 This is our first live event dedicated to data analysis using Stata. We explore a cross-country dataset of macroeconomic variables. We try to model the impact of inflation on economic growth and explore non-linear effects.
-#### [YouTube Video 22 - 10/05/2022 at 1pm GMT - LIVE](https://youtu.be/vNBqjfEiaVc)
+#### [YouTube Video 22 - 10/05/2022 at 1pm GMT - LIVE](https://youtu.be/Wl7Z6oKpAEI)
 
 
 ## Lecture 8: Measuring the immeasurable: CFA and SEM!
