@@ -205,7 +205,7 @@ This video explains the process of model specification, which is often overlooke
 
 ### 7b: Parameter Stability & Time-varying Coefficients
 This video goes deeper into Stata programming. We illustrate time-varying coefficients in regressions. This is an issue in time series analysis aimed at forecasting. How can you forecast if your model exhibits parameter instability? We illustrate the problem and our approach using overlapping periods. The implementation in Stata highlights the differences between the matrix and variable environment. We move between the two using the svmat command. Time-varying coefficients are plotted, and a structural break is highlighted. 
-#### [YouTube Video 21 - 09/05/2022 at 10am GMT](https://youtu.be/o1d7Ho6HcUI)
+#### [YouTube Video 21](https://youtu.be/o1d7Ho6HcUI)
 
 **Chapters**
 - 0:00 Parameter Stability
@@ -225,7 +225,21 @@ This is our first live event dedicated to data analysis using Stata. We explore 
 
 
 ## Lecture 8: Measuring the immeasurable: CFA and SEM!
+### L8a: An Introduction to Confirmatory Factor Analysis in 8 min
+This video provides a brief introduction to Confirmatory Factor Analysis (CFA). We discuss social constructs that cannot be easily measured. In practice, many concepts (e.g., overconfidence) cannot be observed directly (latent variables). These latent variables can be measured indirectly based on a set of factors that can be observed.  We show that index construction, which is common, can be misleading. We discuss various ways to reduce dimensions, which is nowadays part of the machine learning (ML) literature. The methods include principal component analysis (PCA) and confirmatory factor analysis (CFA). Examples refer to our paper "Defining and measuring financial inclusion: A systematic review and confirmatory factor analysis".
+#### [Link to Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/jid.3524)
+#### [YouTube Video 23](https://youtu.be/7-AbpoMltEw)
 
+**Chapters**
+- 0:00 Introduction to CFA
+- 0:11 Example: Financial Inclusion
+- 0:41 Measure Latent Variable
+- 1:59 Factors
+- 2:57 Index Construction
+- 3:59 Reduce Dimensions
+- 4:46 PCA
+- 5:50 CFA
+- 6:13 Measurement Model
 
 
 
