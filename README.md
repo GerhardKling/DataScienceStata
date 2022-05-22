@@ -218,7 +218,6 @@ This video goes deeper into Stata programming. We illustrate time-varying coeffi
 - 10:55 Fovalues Loop
 - 14:55 Plotting Rolling Regression
 
-
 ## Live 1: Exploring Data & Regression Analysis
 This is our first live event dedicated to data analysis using Stata. We explore a cross-country dataset of macroeconomic variables. We try to model the impact of inflation on economic growth and explore non-linear effects.
 #### [YouTube Video 22 - 10/05/2022 at 1pm GMT - LIVE](https://youtu.be/Wl7Z6oKpAEI)
@@ -241,6 +240,19 @@ This video provides a brief introduction to Confirmatory Factor Analysis (CFA). 
 - 5:50 CFA
 - 6:13 Measurement Model
 
+### L8b: Conducting a Confirmatory Factor Analysis in Stata
+This video provides a step-by-step guide to conducting a Confirmatory Factor Analysis (CFA) in Stata. We introduce the sem command and explain the syntax for a measurement model. The models are estimated and post estimation analysis based on goodness of fir measures is conducted. If the RMSEA is larger than 0.05 and the CFI is below 0.95, adding covariances between error terms can be beneficial. To identify the most promising covariances to add, we calculate the Modification Index (MI). Examples refer to our paper "Defining and measuring financial inclusion: A systematic review and confirmatory factor analysis." 
+#### [Link to Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/jid.3524)
+#### [YouTube Video 24 - 23/05/2022 at 10am GMT](https://youtu.be/bOLlF0ACODA)
 
+**Chapters**
+- 0:00 How to estimate a CFA in Stata?
+- 0:29 Illustration of Model
+- 1:03 Model Fit
+- 2:05 Modification Index
+- 2:39 Advanced Topics in SEM
+- 3:06 Data on Financial Inclusion
+- 4:06 The sem Command
+- 6:49 Post Estimation Analysis
 
 
