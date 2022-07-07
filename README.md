@@ -243,7 +243,7 @@ This video provides a brief introduction to Confirmatory Factor Analysis (CFA). 
 ### L8b: Conducting a Confirmatory Factor Analysis in Stata
 This video provides a step-by-step guide to conducting a Confirmatory Factor Analysis (CFA) in Stata. We introduce the sem command and explain the syntax for a measurement model. The models are estimated and post estimation analysis based on goodness of fir measures is conducted. If the RMSEA is larger than 0.05 and the CFI is below 0.95, adding covariances between error terms can be beneficial. To identify the most promising covariances to add, we calculate the Modification Index (MI). Examples refer to our paper "Defining and measuring financial inclusion: A systematic review and confirmatory factor analysis." 
 #### [Link to Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/jid.3524)
-#### [YouTube Video 24 - 23/05/2022 at 10am GMT](https://youtu.be/bOLlF0ACODA)
+#### [YouTube Video 24](https://youtu.be/bOLlF0ACODA)
 
 **Chapters**
 - 0:00 How to estimate a CFA in Stata?
