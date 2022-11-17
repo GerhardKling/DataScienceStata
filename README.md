@@ -1,5 +1,5 @@
 # Data Science using Stata
-Material for the YouTube course "Data Science using Stata: Complete Beginners Course" is available here including slides, data sets, and Stata do files. You can find the course on the channel Yunikarn. The slides are available here [E-book](https://gerhard-kling-s-school.teachable.com/p/my-downloadable-14033).
+Material for the YouTube course "Data Science using Stata: Complete Beginners Course" is available here including data sets, and Stata do files. You can find the course on the channel Yunikarn. The slides are available here [E-book](https://gerhard-kling-s-school.teachable.com/p/my-downloadable-14033).
 
 
 #### [YUNIKARN](https://www.youtube.com/@YUNIKARN) 
