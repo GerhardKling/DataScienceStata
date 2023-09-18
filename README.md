@@ -1,7 +1,6 @@
 # Data Science using Stata
-The full course is available for USD 3.59 on https://www.yunikarn.com/p/data-science-using-stata-complete-beginners-course, including datasets and Stata do files. The slides are available as an E-book (129 pages) https://gerhard-kling-s-school.teachable.com/p/my-downloadable-14033 - combined offer: USD 5.40.
-
-#### [YUNIKARN](https://www.youtube.com/@YUNIKARN) 
+The full course is available USD 19.99 on 
+#### [Udemy](https://www.udemy.com/course/getting-started-with-stata/learn/lecture/37670718?referralCode=337F796C4A4C63DD833F#overview).
 
 ## INTRO:
 #### [YouTube Video 1](https://youtu.be/rJfsuEoTPP8)
