@@ -1,6 +1,5 @@
 # Data Science using Stata
-The full course is available USD 19.99 on 
-#### [Udemy](https://www.udemy.com/course/getting-started-with-stata/learn/lecture/37670718?referralCode=337F796C4A4C63DD833F#overview).
+The full course is available USD 19.99 on #### [Udemy](https://www.udemy.com/course/getting-started-with-stata/learn/lecture/37670718?referralCode=337F796C4A4C63DD833F#overview).
 
 ## INTRO:
 #### [YouTube Video 1](https://youtu.be/rJfsuEoTPP8)
