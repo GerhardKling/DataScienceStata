@@ -254,4 +254,11 @@ This video provides a step-by-step guide to conducting a Confirmatory Factor Ana
 - 4:06 The sem Command
 - 6:49 Post Estimation Analysis
 
+### L9: AI-assisted Coding in Stata
+- Stata, R, or Python
+- AI-assisted coding
+- Purpose
+- Sampling
+- Variables
+- Workflow
 
